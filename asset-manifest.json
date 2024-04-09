@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.0dbffa05.css",
+    "main.js": "/react-gh-pages/static/js/main.d795221a.js",
+    "static/media/sakura.png": "/react-gh-pages/static/media/sakura.d85309432382153a7d5a.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.0dbffa05.css.map": "/react-gh-pages/static/css/main.0dbffa05.css.map",
+    "main.d795221a.js.map": "/react-gh-pages/static/js/main.d795221a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dbffa05.css",
+    "static/js/main.d795221a.js"
+  ]
+}
