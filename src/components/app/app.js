@@ -20,7 +20,7 @@ class App extends Component {
               salary: 675831290,
               
               increase: false,
-              rise: true,
+              rise: false,
               id: 1,
             },
             {
