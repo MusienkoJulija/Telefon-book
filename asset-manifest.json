@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Telefon-book/static/css/main.467a1baf.css",
-    "main.js": "/Telefon-book/static/js/main.4e26d1cc.js",
-    "static/media/sakura.png": "/Telefon-book/static/media/sakura.d85309432382153a7d5a.png",
-    "index.html": "/Telefon-book/index.html",
-    "main.467a1baf.css.map": "/Telefon-book/static/css/main.467a1baf.css.map",
-    "main.4e26d1cc.js.map": "/Telefon-book/static/js/main.4e26d1cc.js.map"
+    "main.css": "/Telefon-book-main/static/css/main.eaca75cf.css",
+    "main.js": "/Telefon-book-main/static/js/main.4e26d1cc.js",
+    "static/media/sakura.png": "/Telefon-book-main/static/media/sakura.d85309432382153a7d5a.png",
+    "index.html": "/Telefon-book-main/index.html",
+    "main.eaca75cf.css.map": "/Telefon-book-main/static/css/main.eaca75cf.css.map",
+    "main.4e26d1cc.js.map": "/Telefon-book-main/static/js/main.4e26d1cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.467a1baf.css",
+    "static/css/main.eaca75cf.css",
     "static/js/main.4e26d1cc.js"
   ]
 }
