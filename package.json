@@ -1,8 +1,7 @@
 {
   "name": "employer",
   "version": "0.1.0",
-  "homepage": "https://musienkojulija.github.io/Telefon-book-main/",
-  
+  "homepage": "https://musienkojulija.github.io/phone-book",
   "private": true,
   "dependencies": {
     "@date-io/date-fns": "^3.0.0",
